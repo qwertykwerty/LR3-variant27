@@ -1,10 +1,10 @@
 поле,тип в pandas,тип в DataLens,пример
-product_id,str,Строка,00066f42aeeb9f3007548bb9d3f33c38
-category,str,Строка,perfumery
+product_id,object,Строка,00066f42aeeb9f3007548bb9d3f33c38
+category,object,Строка,perfumery
 photos_qty,float64,Дробное число,6.0
-photos_group,str,Строка,3 4+ фото
+photos_group,object,Строка,3 4+ фото
 description_len,float64,Дробное число,596.0
-description_group,str,Строка,2 500-999 символов
+description_group,object,Строка,2 500-999 символов
 items_sold,int64,Целое число,1
 revenue,float64,Дробное число,101.65
 avg_review,float64,Дробное число,5.0
